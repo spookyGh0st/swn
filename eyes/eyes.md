@@ -65,8 +65,8 @@ In meiner Karriere konnte ich folgende Punkte häufiger sehen:
 
 ## 2970: Übernahme von Kali Linux
 
-wurde Kali Linux von TSM übernommen und wurde dadurch nicht mehr frei verfügbar.
-Freie Hacker wurden dadurch stark beschädigt und mussten auf illegale Mittel wie Black slab's zurückgreifen.
+Im Jahre 2970 wurde die Sicherheitsdistribution Kali Linux von TSM übernommen und wurde dadurch nicht mehr frei verfügbar.
+Dies war ein harter Schlag gegen freie Hacker, die dadurch zunehmend auf illegale Mittel wie Black slab's zurückgreifen.
 Diese kleinen Geräte haben alle nötige Software schon vorinstalliert und besitzen extra Hardware zum Eindringen in Data Lines.
 Keiner weiss genau, welche Firma hinter diesen Geräten steckt, aber es wäre in Remix Interesse ;).
 
@@ -82,7 +82,7 @@ Eine kurze Liste an Angriffsszenarien findet sich
 
 ## 3001: Automatic Thread Response Protocol
 
-Eine grosse Verbesserung der Sicherheit war die flächendeckende Einführung von ATRP.
+Eine große Verbesserung der Sicherheit war die flächendeckende Einführung von ATRP.
 Diese von TSM entwickelten Chips, die mittlerweile auf fast jeder Platine mitlaufen erkennen viele typischen Angriffe automatisch und schalten diese nach kurzer Zeit ab.
 Seitdem fällt es dem typischen Hacker schwer, komprimierte Geräte für mehr als 20 Sekunden zu kontrollieren.
 Die "Sicherheits"Einheiten von TSM sind hiervon natürlich ausgeschlossen :).
