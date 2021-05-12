@@ -37,11 +37,14 @@ Experten raten immer wieder zu einem Aufsplitten der Firma, fraglich ist jedoch 
 
 ## Stellenausschreibung in Tashpid
 
-Die **UCOC** (United Cities of Chron) hat letzte Woche weiter Stellen für cyber-Pentester eröffnet.
+Die **UCOC** (United Cities of Chron) hat letzte Woche weiter Stellen für Hacker eröffnet.
 Ich selber habe einige Zeit dort gearbeitet, daher wollte ich dies kurz erwähnen.
 Weitere Informationen können Interessante in den Ausschreibungen finden.
 
-# Chron's 
+
+---
+
+# Chron's Hacking History
 
 Ich wurde gefragt, ob ich nicht etwas über wichtigen Hackingereignisse auf Chron schreibe.
 Die ganze Geschichte ist natürlich viel zu viel, ich habe mir ein paar Lieblingsereignisse raus gesucht.
@@ -67,7 +70,7 @@ Freie Hacker wurden dadurch stark beschädigt und mussten auf illegale Mittel wi
 Diese kleinen Geräte haben alle nötige Software schon vorinstalliert und besitzen extra Hardware zum Eindringen in Data Lines.
 Keiner weiss genau, welche Firma hinter diesen Geräten steckt, aber es währe in Remix Interesse ;).
 
-##  2982: Der erste Quick Hack
+## 2982: Der erste Quick Hack
 
 Die Black Slabs erlaubten mobiles, und vor allem schnelles Hacking. 
 Mit der Einführung von Code in künstlichen Körperteilen kamen auch Schwachstellen in diesen.
@@ -77,11 +80,10 @@ Eine kurze Liste an Angriffsszenarien findet sich
 
 ![](https://i.pinimg.com/474x/5b/a3/75/5ba375a5fe93daceb17b58dcf4b42abc.jpg)
 
-## Automatisches Thread Response Protocoll
+## 3001: Automatic Thread Response Protocoll
 
 Eine grosse Verbesserung der Sicherheit war die flächendeckende Einführung von ATRP.
 Diese von TSM entwickelten Chips, die mittlerweile auf fast jeder Platine mitlaufen erkennen viele typischen Angriffe automatisch und schalten diese nach kurzer Zeit ab.
 Seitdem fällt es dem typischen Hacker schwer, kompromierte Geräte für mehr als 20 Sekunden zu kontrollieren.
 Die "Sicherheits"Einheiten von TSM sind hiervon natürlich ausgeschlossen :).
-
 
