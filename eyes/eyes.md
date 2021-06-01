@@ -8,6 +8,26 @@ Begleitmusik gefällig? [Mein Lieblingsalbum diesen Monats.](https://megadrive.b
 
 ---
 
+## Brutalität vor meiner Haustür
+
+Die steigende Gewalt kommen mittlerweile auch in meinem direkten Leben an.
+Auf meinen Nachhauseweg der Pressestelle der UCOC bin ich in eine komplett zerstörte Nachbarschaft gekommen.
+Laut Aussagen des Nachbarn ist ein Frachtschiff in Bauarbeiten eines Hotels gerast.
+
+Laut Augenzeugen soll sich in dem Hotel ein hoher Angestellter der TSM befunden haben.
+Die Polizei schließt daher einen politisch motivierten Anschlag nicht aus.
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ba5bb9b0-9717-446a-807d-6511d1aea391/d9ee41n-6eb781ea-28f0-4ef9-bd05-24901f9937ee.jpg/v1/fill/w_1131,h_707,q_75,strp/destroyed_sci_fi_landscape_by_cdodez-d9ee41n.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9iYTViYjliMC05NzE3LTQ0NmEtODA3ZC02NTExZDFhZWEzOTEvZDllZTQxbi02ZWI3ODFlYS0yOGYwLTRlZjktYmQwNS0yNDkwMWY5OTM3ZWUuanBnIiwid2lkdGgiOiI8PTExMzEiLCJoZWlnaHQiOiI8PTcwNyJ9XV19.kSR9vmYE36lXLumu_6qir1CIwI66PkMMWLnszUMoxA4)
+
+## Jetzt auch Zivilisten?
+
+TSM hat vor Alba City ein Personentransportschiff des SPDCs zur Landung gezwungen.
+Auf dem Boden wartete eine Gruppe mechanischer Polizisten, die das Schiff dursuchten.
+Diese sprach von einer Bombendrohung, traf allerdings keine weiteren Aussagen.
+Von den Passagiere wurde bisher noch nichts gehört, mal schauen ob die noch auftauchen.
+
+Na, fühlt ihr euch auch viel sicherer bei unserer "Sicherheitsfirmer"?
+
 ## Eskalation auf Bua
 
 Nach einem misslungen Angriffsschlag der **TSM (The Security Firm)** auf die planetaren Verteidigungssystem Bua's hat die dortige Regierung einen Vergeltungsschlag ausgeführt.
